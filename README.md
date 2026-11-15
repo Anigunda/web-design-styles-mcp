@@ -1,4 +1,4 @@
-# Web Design Styles MCP 🎨
+# Web Design Styles MCP 
 
 > **16 curated, self-contained HTML/CSS design systems and specifications for AI coding agents.**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎬 Showcase
+## Showcase
 
 <p align="center">
   <img src="media/preview.gif" alt="Web Design Styles MCP Showcase" width="480" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 💡 The Problem
+##  The Problem
 
 Every AI coding assistant (Cursor, Claude, Copilot, Windsurf) defaults to the exact same frontend aesthetics:
 - The predictable purple-to-pink gradient hero
@@ -35,7 +35,7 @@ AI models can write intricate backend logic in seconds, but without explicit des
 
 ---
 
-## 🚀 Quick Install
+##  Quick Install
 
 This MCP server is **remotely hosted** and **completely stateless**—no local runtime setup, dependencies, or node installations required.
 
@@ -125,7 +125,7 @@ Configure as a remote **HTTP / SSE** MCP server:
 
 ---
 
-## 🛠️ Available MCP Tools
+##  Available MCP Tools
 
 Once installed, your AI agent automatically has access to 4 specialized design tools:
 
@@ -138,7 +138,7 @@ Once installed, your AI agent automatically has access to 4 specialized design t
 
 ---
 
-## 🏛️ The 16 Curated Design Systems
+##  The 16 Curated Design Systems
 
 | # | Style Name | Theme | Key Aesthetics | Best For |
 | :-: | :--- | :-: | :--- | :--- |
@@ -161,7 +161,7 @@ Once installed, your AI agent automatically has access to 4 specialized design t
 
 ---
 
-## 💬 Example Prompts for Your AI Agent
+##  Example Prompts for Your AI Agent
 
 Once connected, you can guide your agent with natural language:
 
@@ -183,11 +183,11 @@ Once connected, you can guide your agent with natural language:
 
 ---
 
-## 🌐 Live Interactive Showcase
+##  Live Interactive Showcase
 
 Explore the live reference sheets, copy CSS tokens, and preview interactive components directly in your browser:
 
-👉 **[https://web-design-styles-mcp.anilgoud-gunda.workers.dev](https://web-design-styles-mcp.anilgoud-gunda.workers.dev)**
+ **[https://web-design-styles-mcp.anilgoud-gunda.workers.dev](https://web-design-styles-mcp.anilgoud-gunda.workers.dev)**
 
 ---
 
